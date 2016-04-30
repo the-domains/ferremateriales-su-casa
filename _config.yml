@@ -1,0 +1,28 @@
+name: Ferremateriales Su Casa
+favicon: null
+layout_spectrum: 0.24579379172064364
+typography_spectrum: 0.6466097962111235
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.38183214352466166
+  lightness: 0.4047253259923309
+  saturation: 0.2809547819197178
+  rhythmicContrast: 0.5465326884295791
+purpose: []
